@@ -10,7 +10,7 @@ Webmention is a technology developed by the [IndieWeb](https://indieweb.org) com
 
 I recommend running this on Heroku using the _Deploy to Heroku_ button. You can host it yourself but will need to define the environment variables below.
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy??template=https://github.com/barryf/webhook-mentions)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy??template=https://github.com/frankmeeuwsen/webhook-mentions)
 
 Choose a name for your copy of the app, e.g. `barryf-webhook-mentions`. Make a note of this for later. You'll next need to define the following configuration:
 
